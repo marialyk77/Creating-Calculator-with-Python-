@@ -6,29 +6,30 @@
 
 🏧 The goal of this excericse is to build a basic calculator. 
 
-Course of action: 
+
+✏️Course of action: 
   
-    Function Definitions:
+    1. Function Definitions:
 
           Defined separate functions (add, subtract, multiply, divide) for each arithmetic operation to improve code modularity.
 
-    Utilized print statements to display options that enhance the overall user experience.
+    2. Utilized print statements to display options that enhance the overall user experience.
           
           A for Addition, S for Subtraction, M for Multiplication, D for Division. 
      
-     User Input Validation:
+    3. User Input Validation:
 
           Implemented input validation to ensure the user's choice is valid before proceeding with calculations.
 
-     Calculator Operations:
+    4. Calculator Operations:
 
           We created a calculator program allowing users to perform addition, subtraction, multiplication, and division.
 
-     Looping Structure:
+    5. Looping Structure:
 
           Implemented a while True loop for multiple calculations, breaking when the user chooses not to perform another calculation.    
 
-     Program Termination:
+    6. Program Termination:
 
           Implemented an interactive loop that allows users to decide whether to perform another calculation. 
           After each calculation, users are prompted with a clear message ("Do you want to do another calculation?") and can input "yes" to continue or "no" to exit the program. 
