@@ -1,6 +1,6 @@
-😆 I am so excited and I definitely cannot hide it!!!!!
+😆 I am so excited!!!!!
 
-💕 The reason is simple: I keep going on with my training in Data Analytics and here I present my first project with Python!
+💕 I keep going on with my training in Data Analytics and here I present my first project with Python!
   
 💾 This training is part of the course: Python Programming for Beginners from the online learning platform by Alex Freberg: https://www.analystbuilder.com/ 
 
